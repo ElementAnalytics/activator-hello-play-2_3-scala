@@ -1,0 +1,4 @@
+---
+applications:
+- name: hello-play-scala
+  path: ./target/universal/hello-play-2_3-scala-1.0-SNAPSHOT.zip
